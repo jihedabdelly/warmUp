@@ -2,7 +2,7 @@
 // -name of females in your class
 var females = ["Fooz","Houda","Ons"];
 // -name of males in your class
-var males = ["Abdelsalam","Allam","Fares","Maher","Mohamed"];
+var males = ["Abdelsalam","Allam","Fares","Maher","Mohamed","Zied"];
 // -name of your class instructors 
 var instructors = ["Seif","Youssef","Matt","Tamara","Hugh"];
 // 2-write a function that takes an array as an argument and returns the element that is located in the middle of that array.
