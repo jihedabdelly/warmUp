@@ -32,7 +32,8 @@ function nbOfMale(classmates) {
 	for (var i = 0; i < classmates.length; i++) {
 		numMales ++
 	}
-	return numMales
+	return numMales;
+
 }
 //     -Write a function searchMates that, given a query and an array of Mates,
 //           searches the array of mates for "matching" mate. You will decide what way you want to write your search algorithm.
