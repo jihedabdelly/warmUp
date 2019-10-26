@@ -1,0 +1,20 @@
+body {
+	background-color: blue; 
+}
+
+img {
+	max-width: 500px;
+	max-height: 400px;
+	text-align: center;
+}
+
+.font1 {
+	font-family: fantasy;
+}
+ .font2 {
+ 	font-family: cursive;
+ }
+
+ a {
+ 	color: black;
+ }
