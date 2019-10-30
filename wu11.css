@@ -1,0 +1,15 @@
+ul {
+	display: inline-block;
+}
+
+#list1 {
+	font-family: monospace;
+	background-color: #ccc;
+	color: green;
+}
+
+#list2 {
+	font-weight: 30px;
+	color: red;
+	background-color: #FFE4C4;
+}
